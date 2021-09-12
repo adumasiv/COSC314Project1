@@ -7,7 +7,6 @@ public class TruthTables
 	   {
 	       
 	       Boolean p=false,q=false;
-	       Boolean trt = false;
 	       Scanner kbd = new Scanner(System.in);
 	       
 	       System.out.print("What is proposition p? ");
