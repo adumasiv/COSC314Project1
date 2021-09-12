@@ -49,7 +49,7 @@ public class TruthTables
 	  
 	   Boolean biconditional(Boolean p, Boolean q)
 	   	{
-	       	return (!p || q) && (!q || p);
+	       	return p == q;
 	   	}
 
 }
