@@ -5,7 +5,7 @@ public class TruthTables
 
 	public static void main(String[] args) 
 	   {
-	       
+	       // variables for p and q
 	       Boolean p=false,q=false;
 	       Boolean trt = false;
 	       Scanner kbd = new Scanner(System.in);
